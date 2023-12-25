@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../reg/res/click.png</file>
+        <file>../reg/res/clickk.png</file>
+        <file>../reg/res/dog.png</file>
+        <file>../reg/res/image1.png</file>
+        <file>../reg/res/kuromi_white.png</file>
+        <file>../reg/res/lock.png</file>
+        <file>res/click.png</file>
+        <file>res/clickk.png</file>
+        <file>res/dog.png</file>
+        <file>res/image1.png</file>
+        <file>res/kuromi_white.png</file>
+        <file>res/lock.png</file>
+        <file>res/dog00.png</file>
+    </qresource>
+</RCC>
